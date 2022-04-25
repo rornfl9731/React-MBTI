@@ -17,7 +17,7 @@ const Result = () =>{
         <Wrapper>
             <Header>예비집사 판별기</Header>
             <Contents>
-                <Title>결과 보기</Title>
+                <Title>결과</Title>
                 <LogoImage>
                     <img alt="고양이 사진" src={PangImage} className="rounded-circle" width={350} height={350} />
                 </LogoImage>
